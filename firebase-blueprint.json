@@ -1,0 +1,60 @@
+{
+  "entities": {
+    "articles": {
+      "title": "string",
+      "subtitle": "string",
+      "slug": "string",
+      "content": "string",
+      "authorId": "string",
+      "authorName": "string",
+      "authorAvatar": "string",
+      "authorRole": "string",
+      "categoryId": "string",
+      "categoryName": "string",
+      "tags": "array",
+      "featuredImage": "string",
+      "images": "array",
+      "publishedAt": "string",
+      "updatedAt": "string",
+      "readingTime": "number",
+      "views": "number",
+      "status": "string",
+      "featured": "boolean",
+      "breakingNews": "boolean",
+      "seoDescription": "string",
+      "seoKeywords": "string"
+    },
+    "categories": {
+      "name": "string",
+      "slug": "string",
+      "description": "string",
+      "icon": "string",
+      "order": "number"
+    },
+    "authors": {
+      "name": "string",
+      "role": "string",
+      "bio": "string",
+      "avatar": "string",
+      "email": "string"
+    },
+    "comments": {
+      "articleId": "string",
+      "authorName": "string",
+      "content": "string",
+      "createdAt": "string",
+      "approved": "boolean"
+    },
+    "subscribers": {
+      "email": "string",
+      "subscribedAt": "string"
+    },
+    "settings": {
+      "siteName": "string",
+      "tagline": "string",
+      "breakingNewsActive": "boolean",
+      "breakingNewsText": "string",
+      "breakingNewsLink": "string"
+    }
+  }
+}

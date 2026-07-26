@@ -1,0 +1,6 @@
+{
+  "name": "The Uzbekistan Times",
+  "description": "A premier international news and journalism platform covering news, politics, business, technology, culture, and opinion from Uzbekistan and around the world.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
